@@ -28,6 +28,6 @@ make bacon
 
 ## Device picture
 
-![Nokia 8.1](https://images.ctfassets.net/wcfotm6rrl7u/57CuFPNJawN0FFhBCFCZHr/2c3258a5eaf061be73119d2136a0834e/nokia_8_1_PDS-SPECS-mobile-BLUE.png)
+![Nokia 8.1](https://i.ibb.co/Pgwk56S/nokia-8-1-PDS-SPECS-mobile-BLUE.png)
 
 
