@@ -80,6 +80,10 @@ PRODUCT_PACKAGES += \
     android.hidl.base@1.0 \
     android.hidl.manager@1.0
 
+# Google Photos Unlimited
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/prebuilt/google/etc/sysconfig/pixel_2016_exclusive.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_2016_exclusive.xml
+
 # IDC
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/idc/goodix_fp.idc:system/usr/idc/goodix_fp.idc
